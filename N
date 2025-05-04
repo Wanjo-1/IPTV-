@@ -1,0 +1,31 @@
+
+# SmartBoost IPTV Booster
+
+**SmartBoost IPTV Booster** is a lightweight mobile IPTV streaming app focused on fast, smooth, and reliable performance, built with Node.js and designed for Kenyan audiences. It features local and international channels, music integration, and support for M3U playlists.
+
+## Features
+- Stream live TV from M3U playlists
+- Built-in support for Kenyan content
+- Music integration with top Kenyan artists
+- Clean and simple UI using Kenya flag colors
+- Lightweight and mobile-first design
+
+## Installation
+
+```bash
+git clone https://github.com/Wanjo-1/iptv-booster.git
+cd iptv-booster
+npm install
+```
+
+## Run Locally
+
+```bash
+npm start
+```
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+## License
+[MIT](LICENSE)
